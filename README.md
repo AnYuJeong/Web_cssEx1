@@ -9,6 +9,6 @@ grid 기능.
 
 
 겹치는 부분의 코드는 css파일을 따루두어서 
-<head>태그 부분에
-<link rel="stylesheet" href="cssFile.css">
-이런식으로 불러온다.
+head 태그 부분에 
+link rel="stylesheet" href="cssFile.css"
+이런식으로 불러온다. (<>기호는 없어져서 생략)
